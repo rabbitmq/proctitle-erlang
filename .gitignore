@@ -1,0 +1,13 @@
+.sw?
+*.sw?
+*.beam
+.*.plt
+erl_crash.dump
+
+/.erlang.mk/
+/c_src/env.mk
+/c_src/proctitle_nif.o
+/deps/
+/ebin/
+/priv/
+/proctitle.d
